@@ -9,8 +9,7 @@ Implementation of the paper published in Spinger, Singapore. This part implement
 5. l_diagonal.m - stroke width of the lower diagonal
 6. test_stroke.m - Statistical analysis of the stroke width along 8 directions
 7. u_diagonal.m - stroke width of the upper diagonal
-8. vertical.m - vertical map of least distance maps'
-9. horizontal.m - stroke width of the horizontal
+8. test.m - Pixel mapped to side where it is the minimum distance from. 
 
 
 # Citation
