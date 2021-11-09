@@ -1,5 +1,5 @@
 # Textual-Content-Retrieval-from-Filled-in-Form-Images
-Implementation of the paper published in Spinger, Singapore. This part implements the segregation of the printed texts from the handwritten texts. The code has been implemented in Matlab. 
+Implementation of our paper published in Spinger, Singapore. This part implements the segregation of the printed texts from the handwritten texts. The code has been implemented in Matlab. 
 
 # Files and What they do :
 1. otsu_sd_pl.m - calculate the otsu threshold of the printed and the handwritten
