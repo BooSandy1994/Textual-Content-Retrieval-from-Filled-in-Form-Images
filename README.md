@@ -14,6 +14,24 @@ Implementation of our paper published in Spinger, Singapore. This part implement
 
 # Citation
 
-Ghosh S., Bhattacharya R., Majhi S., Bhowmik S., Malakar S., Sarkar R. (2019) Textual Content Retrieval from Filled-in Form Images. In: Sundaram S., Harit G. (eds) Document Analysis and Recognition. DAR 2018. Communications in Computer and Information Science, vol 1020. Springer, Singapore. 
-https:// doi.org/10.1007/978-981-13-9361-7_3
+```
+@InProceedings{10.1007/978-981-13-9361-7_3,
+author="Ghosh, Soulib
+and Bhattacharya, Rajdeep
+and Majhi, Sandipan
+and Bhowmik, Showmik
+and Malakar, Samir
+and Sarkar, Ram",
+editor="Sundaram, Suresh
+and Harit, Gaurav",
+title="Textual Content Retrieval from Filled-in Form Images",
+booktitle="Document Analysis and Recognition",
+year="2019",
+publisher="Springer Singapore",
+address="Singapore",
+pages="27--37",
+abstract="Form processing refers to the process of extraction of information from filled-in forms. In this work, we have addressed three very crucial challenges of a form processing system, namely touching component separation, text non-text separation and handwritten-printed text separation. The proposed method is evaluated on a database having 50 filled-in forms written in Bangla, collected during an essay competition in a school. The experimental results are promising.",
+isbn="978-981-13-9361-7"
+}
+```
 
