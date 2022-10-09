@@ -7,8 +7,21 @@ Handwritten-printed separation    95.8%       98.7%     96.2%
 
 # Visualization :
 
+### Project Work Flow : (My work was to separate the handwritten and printed text)
 
+![ScreenShot](flow.PNG)
 
+### Determination of Stroke Width : 
+
+![ScreenShot](stroke.PNG)
+
+### Orientation differences visualizations : 
+
+![ScreenShot](oreintation.PNG)
+
+### New Feature calculation based on orientation :
+
+![ScreenShot](new.PNG)
 
 
 # Textual-Content-Retrieval-from-Filled-in-Form-Images :
