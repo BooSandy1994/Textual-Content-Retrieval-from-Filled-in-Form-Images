@@ -1,4 +1,17 @@
-# Textual-Content-Retrieval-from-Filled-in-Form-Images
+# Results :
+
+```
+Module                            Precision   Recall    Accuracy
+Handwritten-printed separation    95.8%       98.7%     96.2%
+```
+
+# Visualization :
+
+
+
+
+
+# Textual-Content-Retrieval-from-Filled-in-Form-Images :
 Implementation of our paper published in Spinger, Singapore. This part implements the segregation of the printed texts from the handwritten texts. The code has been implemented in Matlab. 
 
 # Files and What they do :
@@ -12,7 +25,7 @@ Implementation of our paper published in Spinger, Singapore. This part implement
 8. test.m - Pixel mapped to side where it is the minimum distance from. 
 
 
-# Citation
+# Citation : 
 
 ```
 @InProceedings{10.1007/978-981-13-9361-7_3,
